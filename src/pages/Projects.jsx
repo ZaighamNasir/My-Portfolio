@@ -9,10 +9,10 @@ export default function Projects() {
       github: "https://github.com/ZaighamNasir/Amazon-Clone",
       live: "https://amazon-clone-drab-psi-36.vercel.app",
       details:
-        "Built a fully responsive static Amazon clone website using HTML and CSS, closely replicating the structure and visual design of the original Amazon homepage. Included header, product grid layouts, promotional banners, and a detailed footer. Focused on pixel-perfect accuracy, semantic HTML, and modular CSS.",
+        "A fully responsive static Amazon clone website using HTML and CSS, closely replicating the structure and visual design of the original Amazon homepage. Included header, product grid layouts, promotional banners, and a detailed footer. Focused on pixel-perfect accuracy, semantic HTML, and modular CSS.",
     },
     {
-      title: "Car Rental Website",
+      title: "Rent Ride",
       image: "/car-rental.png",
       github: "https://github.com/ZaighamNasir/Car-Rental-Website-Front-End",
       live: "https://car-rental-website-front-end.vercel.app",
@@ -20,18 +20,18 @@ export default function Projects() {
         "Developed the frontend of a responsive car rental website using HTML, CSS, and JavaScript. Implemented interactive components, form validations, and ensured mobile responsiveness. Focused on UI/UX and performance optimization.",
     },
     {
-      title: "Library Management System",
+      title: "BookVault",
       image: "/library.png",
       details:
         "Built a Library Management System using MySQL with 8 normalized relational tables. Wrote and executed 500+ SQL queries, covering joins, subqueries, stored procedures, and triggers. Enhanced database design and query optimization skills.",
     },
     {
-      title: "Hotel Management Website",
+      title: "QuickStay",
       image: "/hotel.png",
       github: "https://github.com/ZaighamNasir/Hotel-Booking-Front-End",
       live: "https://hotel-booking-front-end-six.vercel.app",
       details:
-        "Built a Library Management System using MySQL with 8 normalized relational tables. Wrote and executed 500+ SQL queries, covering joins, subqueries, stored procedures, and triggers. Enhanced database design and query optimization skills.",
+        "QuickStay is website that helps user in renting hotels in different places in world with ease. Developed using React.js for the frontend, Tailwind CSS for responsive styling, and Clerk Auth for secure user authentication. The application allows users to sign up, log in, browse hotels, and book rooms through a streamlined and user-friendly interface. ",
     },
     {
       title: "Web Authorization App",
@@ -39,7 +39,7 @@ export default function Projects() {
       github: "https://github.com/ZaighamNasir/Auth-api-integration-Part-two-",
       live: "https://auth-api-integration-part-two.vercel.app",
       details:
-        "Built a React-based authentication system with external API integration. Features JWT login, secure token storage, password reset via OTP, and a personalized dashboard. Designed with modern UI/UX, gradient backgrounds, and responsive layouts.",
+        "A React-based authentication system with external API integration. Features JWT login, secure token storage, password reset via OTP, and a personalized dashboard. Designed with modern UI/UX, gradient backgrounds, and responsive layouts.",
     },
   ];
 
